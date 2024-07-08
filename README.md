@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<img src="https://www.canva.com/design/DAGJvIAa41c/YiVs3VPaTjSsP3pgeo03IQ/view" width="400px" />
 <br>
 
 # Hey there🙋‍♂️, I am Abdelrahman Sami

@@ -1,5 +1,5 @@
 <div align="center">
-<img src="![alt text](image.png)" width="400px" />
+<img src="C:\Users\lenovo\Downloads\Navy Blue Geometric Technology LinkedIn Banner (1).png" width="400px" />
 <br>
 
 # Hey there🙋‍♂️, I am Abdelrahman Sami

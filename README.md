@@ -20,5 +20,5 @@
   Favorite Quote:
   
   <p align="center">
-    <em>"Think twice, code once."</em>
+    <em>"The only way to do great work is to love what you do."</em>
   </p>

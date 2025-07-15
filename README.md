@@ -44,32 +44,6 @@
 
 </div>
 
----
-
-## 📊 **GitHub Stats:**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelrahman-samy&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
- 
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-samy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-
----
-
-## 💡 **Current Focus:**
-- 🔬 Advanced Computer Vision techniques
-- 🤖 Deep Learning model optimization  
-- 📱 AI-powered mobile applications with Flutter
-- 🌐 Real-time AI systems deployment
-
----
 
 ## 📫 **Let's Connect:**
 

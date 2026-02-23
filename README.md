@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.postimg.cc/sgZXt8z2/Coding-(5).gif" width="600px" />
+<img src="https://i.postimg.cc/sgZXt8z2/Coding-(5).gif" width="450px" />
 <br>
 
 # Hey there🙋‍♂️, I am Abdelrahman Sami
